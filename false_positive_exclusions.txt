@@ -1,16 +1,17 @@
 APClips
-Cults3D
 GNOME VCS
 Giphy
+HackerRank
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Tiendanube
 Topcoder
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
+xHamster
