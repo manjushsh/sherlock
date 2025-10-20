@@ -1,6 +1,6 @@
 APClips
 BreachSta.rs Forum
-CGTrader
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -13,5 +13,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
