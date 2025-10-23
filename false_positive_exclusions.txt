@@ -1,8 +1,7 @@
 APClips
-BreachSta.rs Forum
+Coders Rank
 GNOME VCS
 Giphy
-Itch.io
 LushStories
 PocketStars
 Reddit
@@ -10,7 +9,6 @@ RocketTube
 Splice
 Spotify
 Topcoder
-Velomania
 Weblate
 YandexMusic
 opennet
