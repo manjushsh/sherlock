@@ -1,14 +1,15 @@
 APClips
-DeviantArt
+Coders Rank
+Dribbble
 GNOME VCS
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
