@@ -1,4 +1,6 @@
 APClips
+Audiojungle
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -7,10 +9,12 @@ Minecraft
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
+phpRU
 svidbook
+xHamster
