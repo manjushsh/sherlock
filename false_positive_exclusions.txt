@@ -1,5 +1,5 @@
 APClips
-Audiojungle
+Archive.org
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -14,7 +14,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
-xHamster
