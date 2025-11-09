@@ -1,11 +1,12 @@
 APClips
 Archive.org
-Carbonmade
+Blogger
+BoardGameGeek
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-Gumroad
-Minecraft
+LushStories
 PocketStars
 Reddit
 RocketTube
@@ -17,3 +18,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
