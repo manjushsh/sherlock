@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Blogger
-BoardGameGeek
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -10,12 +8,11 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+Slashdot
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
-xHamster
