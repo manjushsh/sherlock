@@ -1,9 +1,10 @@
 APClips
 Archive.org
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-Itch.io
+HackerRank
 LushStories
 PocketStars
 Reddit
@@ -15,4 +16,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
+xHamster
