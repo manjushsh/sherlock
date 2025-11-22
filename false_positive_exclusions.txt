@@ -1,19 +1,19 @@
 APClips
 Archive.org
-Carbonmade
+BoardGameGeek
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
-HackerRank
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
+xHamster
