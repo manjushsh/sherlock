@@ -5,14 +5,14 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 LushStories
+Minecraft
 PocketStars
+Rajce.net
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
