@@ -5,9 +5,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 LushStories
-Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
