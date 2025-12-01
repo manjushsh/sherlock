@@ -5,6 +5,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 LushStories
+OurDJTalk
 PocketStars
 Reddit
 RocketTube
