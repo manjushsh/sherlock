@@ -7,18 +7,18 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
+SlideShare
 Splice
 Spotify
 Trovo
-Vero
 Weblate
 YandexMusic
-eintracht
 opennet
 svidbook
+xHamster
