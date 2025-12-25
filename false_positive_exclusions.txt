@@ -3,6 +3,7 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -16,8 +17,9 @@ SlideShare
 Splice
 Spotify
 Trovo
+TryHackMe
 Weblate
+YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
