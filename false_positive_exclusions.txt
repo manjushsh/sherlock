@@ -1,9 +1,8 @@
 APClips
+Academia.edu
 Archive.org
 Code Snippet Wiki
-DeviantArt
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -16,10 +15,9 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
-TryHackMe
 Weblate
 YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
