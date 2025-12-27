@@ -1,5 +1,4 @@
 APClips
-Academia.edu
 Archive.org
 Code Snippet Wiki
 Fandom
@@ -20,4 +19,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
