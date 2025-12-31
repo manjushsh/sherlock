@@ -1,9 +1,10 @@
 APClips
 Archive.org
-BoardGameGeek
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -19,6 +20,8 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
