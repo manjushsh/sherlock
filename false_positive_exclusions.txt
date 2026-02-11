@@ -6,13 +6,13 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
