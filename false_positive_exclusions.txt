@@ -1,11 +1,12 @@
 APClips
 Archive.org
-CGTrader
+Blogger
 Code Snippet Wiki
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LessWrong
 LushStories
 PocketStars
@@ -13,7 +14,6 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
