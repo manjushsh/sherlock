@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 Codolio
 DeviantArt
 GNOME VCS
@@ -8,7 +9,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Patched
 PocketStars
@@ -29,4 +29,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
