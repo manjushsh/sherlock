@@ -1,10 +1,12 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -16,6 +18,7 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
