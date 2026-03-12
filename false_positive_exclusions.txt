@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Chatujme.cz
 Codolio
 DeviantArt
 GNOME VCS
@@ -19,7 +20,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
 Strava
@@ -28,8 +28,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
-nnRU
 opennet
 phpRU
 svidbook
