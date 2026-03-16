@@ -2,7 +2,6 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-Dribbble
 GNOME VCS
 GeeksforGeeks
 Giphy
