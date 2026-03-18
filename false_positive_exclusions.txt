@@ -1,11 +1,11 @@
 APClips
 Archive.org
+CGTrader
 Codolio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 Minecraft
 Patched
@@ -18,7 +18,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 TryHackMe
@@ -28,3 +27,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
