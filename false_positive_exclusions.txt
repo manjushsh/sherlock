@@ -1,11 +1,13 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
-DeviantArt
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -22,7 +24,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
