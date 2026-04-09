@@ -1,10 +1,11 @@
 7Cups
 APClips
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
+Fosstodon
 GeeksforGeeks
 Giphy
 Hashnode
@@ -23,8 +24,9 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
+Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
