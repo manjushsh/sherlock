@@ -1,14 +1,13 @@
 7Cups
 APClips
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
-Carbonmade
+Chess
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -29,12 +28,12 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
