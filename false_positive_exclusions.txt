@@ -1,12 +1,9 @@
 7Cups
 APClips
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
-Chess
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -22,18 +19,18 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
