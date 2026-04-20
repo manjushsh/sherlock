@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -17,15 +18,14 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
