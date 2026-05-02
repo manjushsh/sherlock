@@ -1,25 +1,20 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
-Audiojungle
 Bandcamp
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LushStories
-Minecraft
-Outgress
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,8 +33,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
