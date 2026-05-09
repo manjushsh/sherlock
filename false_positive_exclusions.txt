@@ -4,10 +4,8 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
-Audiojungle
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,9 +15,9 @@ Hubski
 LessWrong
 LushStories
 Minecraft
+Motherless
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -33,7 +31,6 @@ Spotify
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 dailykos
 igromania
