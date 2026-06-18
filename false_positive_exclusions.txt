@@ -6,8 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+CGTrader
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -24,14 +25,12 @@ Rarible
 Realmeye
 Reddit
 Replit.com
-RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Tenor
-Trovo
+Star Citizen
 TryHackMe
 Velomania
 Weblate
