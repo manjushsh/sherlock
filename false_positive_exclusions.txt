@@ -6,17 +6,19 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+Chess
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
 Pornhub
@@ -37,6 +39,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+furaffinity
 igromania
 interpals
 mercadolivre
