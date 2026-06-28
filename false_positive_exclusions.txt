@@ -6,7 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Coders Rank
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -29,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
