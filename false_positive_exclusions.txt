@@ -6,14 +6,13 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
-CGTrader
 Codolio
-Cults3D
+DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
@@ -32,13 +31,14 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
+fixya
 igromania
 interpals
 mercadolivre
