@@ -39,11 +39,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
