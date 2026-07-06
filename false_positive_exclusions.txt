@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -16,7 +15,6 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Minecraft
