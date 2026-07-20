@@ -1,7 +1,9 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
@@ -14,10 +16,11 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Odysee
 OurDJTalk
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -38,6 +42,8 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
