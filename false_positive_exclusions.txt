@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -15,10 +16,12 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -46,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
