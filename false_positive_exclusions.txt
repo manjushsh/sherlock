@@ -21,7 +21,6 @@ Hubski
 Instapaper
 LessWrong
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
