@@ -7,7 +7,6 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,10 +19,9 @@ Hubski
 Instapaper
 LessWrong
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -32,7 +30,6 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
