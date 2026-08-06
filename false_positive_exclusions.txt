@@ -1,18 +1,15 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
-Chess
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -23,17 +20,17 @@ Hubski
 Instapaper
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 ReverbNation
 RocketTube
-Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
@@ -48,8 +45,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
