@@ -19,10 +19,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -36,9 +34,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
