@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -15,12 +16,14 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -42,6 +45,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
