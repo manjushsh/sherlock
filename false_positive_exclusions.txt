@@ -6,8 +6,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,7 +21,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
+Itch.io
 LushStories
 Odysee
 PCGamer
@@ -36,8 +38,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,4 +53,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
