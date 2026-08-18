@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,16 +14,13 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
+Linktree
 LushStories
-Minecraft
 Odysee
-Outgress
 PCGamer
 Patched
 Pornhub
@@ -41,11 +37,11 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
@@ -53,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
