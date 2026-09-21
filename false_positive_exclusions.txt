@@ -6,10 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
 CGTrader
 Championat
-Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
@@ -36,7 +34,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
