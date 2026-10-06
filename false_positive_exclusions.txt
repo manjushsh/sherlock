@@ -23,7 +23,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -43,6 +43,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
