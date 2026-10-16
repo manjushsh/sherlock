@@ -20,10 +20,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 LushStories
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
