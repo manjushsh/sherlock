@@ -1,11 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+BoardGameGeek
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -17,7 +17,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -46,4 +45,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
