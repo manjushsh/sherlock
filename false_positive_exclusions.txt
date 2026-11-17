@@ -1,13 +1,15 @@
+APClips
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
+Blogger
 Championat
 Chatujme.cz
 Codolio
+Cplusplus
 Cracked Forum
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
@@ -15,11 +17,13 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
 LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -45,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
