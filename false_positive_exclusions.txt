@@ -3,8 +3,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Championat
+Blogger
 Chatujme.cz
+Chess
 Codolio
 Cracked Forum
 DeviantArt
@@ -15,7 +16,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -44,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
