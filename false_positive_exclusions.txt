@@ -5,12 +5,13 @@ Apple Discussions
 Archive.org
 Chatujme.cz
 Codolio
-DeviantArt
+Cracked Forum
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
+Houzz
 Hubski
 Instapaper
 Linktree
@@ -18,6 +19,7 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
